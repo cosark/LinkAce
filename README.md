@@ -74,6 +74,14 @@ LinkAce provides multiple ways of installing it on your server. The complete doc
 &nbsp;
 
 
+### ☁️ One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/linkace/)
+
+
+&nbsp;
+
+
 ### :bulb: Support for LinkAce
 
 I built LinkAce to solve my own problem, and I now offer my solution and code without charging any money. I spent a lot of my free time building this application, so I won't offer any *free* personal support, customization or installation help. If you need help please visit the [community discussions](https://github.com/Kovah/LinkAce/discussions) and post your issue there.
